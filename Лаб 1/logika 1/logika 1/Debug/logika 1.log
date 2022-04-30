@@ -1,0 +1,5 @@
+﻿  1.cpp
+C:\Users\1\Desktop\Логика\Лаб 1\logika 1\logika 1\1.cpp(31,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\1\Desktop\Логика\Лаб 1\logika 1\logika 1\1.cpp(44,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\1\Desktop\Логика\Лаб 1\logika 1\logika 1\1.cpp(63,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  logika 1.vcxproj -> C:\Users\1\Desktop\Логика\Лаб 1\logika 1\Debug\logika 1.exe

@@ -1,0 +1,16 @@
+﻿  2.cpp
+C:\Users\1\Desktop\Логика\Лаб 2\logika 2\logika 2\2.cpp(19,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\1\Desktop\Логика\Лаб 2\logika 2\logika 2\2.cpp(152,13): warning C4244: инициализация: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\1\Desktop\Логика\Лаб 2\logika 2\logika 2\2.cpp(173,13): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\1\Desktop\Логика\Лаб 2\logika 2\logika 2\2.cpp(187,13): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\1\Desktop\Логика\Лаб 2\logika 2\logika 2\2.cpp(200,13): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\1\Desktop\Логика\Лаб 2\logika 2\logika 2\2.cpp(217,13): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\1\Desktop\Логика\Лаб 2\logika 2\logika 2\2.cpp(233,13): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\1\Desktop\Логика\Лаб 2\logika 2\logika 2\2.cpp(245,13): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\1\Desktop\Логика\Лаб 2\logika 2\logika 2\2.cpp(257,13): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\1\Desktop\Логика\Лаб 2\logika 2\logika 2\2.cpp(274,13): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\1\Desktop\Логика\Лаб 2\logika 2\logika 2\2.cpp(290,13): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\1\Desktop\Логика\Лаб 2\logika 2\logika 2\2.cpp(302,13): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\1\Desktop\Логика\Лаб 2\logika 2\logika 2\2.cpp(314,13): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+C:\Users\1\Desktop\Логика\Лаб 2\logika 2\logika 2\2.cpp(331,13): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+  logika 2.vcxproj -> C:\Users\1\Desktop\Логика\Лаб 2\logika 2\Debug\logika 2.exe
